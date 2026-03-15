@@ -107,7 +107,6 @@ Project documentation and overview.
 * Working with real-world datasets
 
 ---
-
 ## Future Improvements
 
 * Apply machine learning models to predict climate opinion trends.
