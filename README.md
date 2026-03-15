@@ -115,6 +115,13 @@ Project documentation and overview.
 * Expand the analysis with additional demographic data.
 
 ---
+## Project Highlights
+
+* Real-world climate dataset  
+* Data cleaning using Python  
+* Exploratory Data Analysis (EDA) 
+* Tableau dashboard for visualization  
+* End-to-end data science workflow
 
 ## License
 
